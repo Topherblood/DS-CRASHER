@@ -3,7 +3,7 @@
 
 Soyez responsables et éthiques dans vos actions.
 
-#🔰INSTALLATION🔰
+# 🔰INSTALLATION🔰
 apt update
 
 apt upgrade
