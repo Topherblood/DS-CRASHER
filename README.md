@@ -14,7 +14,7 @@ pkg install python
 
 pip install colorama 
 
-git clone https://github.com/Topherblood/Topher-DDOS
+git clone https://github.com/Topherblood/DS-CRASHER
 
 cd DS-CRASHER
 
