@@ -12,12 +12,10 @@ apt install git
 
 pkg install python
 
-pip install user_agent
-
-pip install pyfiglet
+pip install colorama 
 
 git clone https://github.com/Topherblood/Topher-DDOS
 
-cd Topher-DDOS
+cd DS-CRASHER
 
-python Topher-DDos.py
+python DS-CRASHER.py
